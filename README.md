@@ -2,7 +2,7 @@
 
 <h1 align="center">TIKAZ Presentation Workflows for Codex</h1>
 <p align="center"><strong>Narrative-first HTML, PPTX, and editorial web decks with page contracts and rendered QA.</strong></p>
-<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.2.0-F59E0B.svg" alt="0.2.0" /></p>
+<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.3.0-F59E0B.svg" alt="0.3.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all six TIKAZ AI Skills for Codex suites</a></p>
 
 ---
