@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">3: HTML 演示、可编辑 PPTX 与编辑式网页演示. 1: 最终成品只由一个构建器负责. 4: 每页定义主张、证据、视觉任务与讲述意图. 4: 溢出、碰撞、媒体授权与成品完整性</title>
+<style>
+.value { fill: #F59E0B; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="HTML 演示、可编辑 PPTX 与编辑式网页演示"><text class="value" x="150" y="70" text-anchor="middle">3</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">输出构建器</div></foreignObject></g><g class="proof" aria-label="最终成品只由一个构建器负责"><text class="value" x="450" y="70" text-anchor="middle">1</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">每份演示单一构建器</div></foreignObject></g><g class="proof" aria-label="每页定义主张、证据、视觉任务与讲述意图"><text class="value" x="750" y="70" text-anchor="middle">4</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">页面合同字段</div></foreignObject></g><g class="proof" aria-label="溢出、碰撞、媒体授权与成品完整性"><text class="value" x="1050" y="70" text-anchor="middle">4</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">渲染 QA 门禁</div></foreignObject></g>
+</svg>

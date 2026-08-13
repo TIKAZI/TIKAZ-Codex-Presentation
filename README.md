@@ -7,14 +7,7 @@
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Presentation/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-F59E0B.svg" alt="0.8.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="HTML deck, editable PPTX, and editorial web presentation"><h3>3</h3><sub>Output builders</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Exactly one builder owns the final artifact"><h3>1</h3><sub>Owner per deck</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Each page defines claim, evidence, visual job, and speaker intent"><h3>4</h3><sub>Page-contract fields</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Overflow, collisions, media licensing, and artifact integrity"><h3>4</h3><sub>Rendered QA gates</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.svg" alt="Four verified core advantages" width="100%" /></p>
 
 ---
 
