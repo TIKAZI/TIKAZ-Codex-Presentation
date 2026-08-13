@@ -1,8 +1,8 @@
 <svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
 <title id="proof-title">3: HTML deck, editable PPTX, and editorial web presentation. 1: Exactly one builder owns the final artifact. 4: Each page defines claim, evidence, visual job, and speaker intent. 4: Overflow, collisions, media licensing, and artifact integrity</title>
 <style>
-.value { fill: #F59E0B; font: 750 46px "Segoe UI", Arial, sans-serif; }
-.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+.value { fill: #F59E0B; font: 750 54px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 24px/1.3 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
 @media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
 </style>
 <g class="proof" aria-label="HTML deck, editable PPTX, and editorial web presentation"><text class="value" x="150" y="70" text-anchor="middle">3</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Output builders</div></foreignObject></g><g class="proof" aria-label="Exactly one builder owns the final artifact"><text class="value" x="450" y="70" text-anchor="middle">1</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Owner per deck</div></foreignObject></g><g class="proof" aria-label="Each page defines claim, evidence, visual job, and speaker intent"><text class="value" x="750" y="70" text-anchor="middle">4</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Page-contract fields</div></foreignObject></g><g class="proof" aria-label="Overflow, collisions, media licensing, and artifact integrity"><text class="value" x="1050" y="70" text-anchor="middle">4</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Rendered QA gates</div></foreignObject></g>
