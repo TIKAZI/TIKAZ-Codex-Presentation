@@ -31,6 +31,15 @@ Clone or download this repository, then copy the repository folder into the Skil
 git clone https://github.com/TIKAZI/TIKAZ-Codex-Presentation.git
 ```
 
+## 🧩 Use one Skill independently
+
+Every Skill below has its own promise, installation command, example, execution contract, limits, and bilingual project page:
+
+- [`html-deck-builder`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/html-deck-builder/index.html)
+- [`magazine-web-deck`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/magazine-web-deck/index.html)
+- [`powerpoint-deck-builder`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/powerpoint-deck-builder/index.html)
+- [`presentation`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/presentation/index.html)
+
 ## 🚀 Try it
 
 ```text
