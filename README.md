@@ -9,10 +9,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="HTML deck, editable PPTX, and editorial web presentation"><h3>3</h3><sub>Output builders</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Exactly one builder owns the final artifact"><h3>1</h3><sub>Owner per deck</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Each page defines claim, evidence, visual job, and speaker intent"><h3>4</h3><sub>Page-contract fields</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Overflow, collisions, media licensing, and artifact integrity"><h3>4</h3><sub>Rendered QA gates</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="HTML deck, editable PPTX, and editorial web presentation"><h3>3</h3><sub>Output builders</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Exactly one builder owns the final artifact"><h3>1</h3><sub>Owner per deck</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Each page defines claim, evidence, visual job, and speaker intent"><h3>4</h3><sub>Page-contract fields</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Overflow, collisions, media licensing, and artifact integrity"><h3>4</h3><sub>Rendered QA gates</sub></td>
 </tr>
 </table>
 
