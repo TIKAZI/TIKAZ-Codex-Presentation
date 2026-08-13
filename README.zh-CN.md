@@ -8,6 +8,16 @@
 
 由 **TIKAZ** 主导设计、整合、独立重构和持续维护。
 
+
+<table data-proof-strip="true" width="100%">
+<tr>
+<td data-proof-cell="true" align="center" width="25%" title="HTML 演示、可编辑 PPTX 与编辑式网页演示"><h3>3</h3><sub>输出构建器</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="最终成品只由一个构建器负责"><h3>1</h3><sub>每份演示单一构建器</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="每页定义主张、证据、视觉任务与讲述意图"><h3>4</h3><sub>页面合同字段</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="溢出、碰撞、媒体授权与成品完整性"><h3>4</h3><sub>渲染 QA 门禁</sub></td>
+</tr>
+</table>
+
 ## 🧩 可以单独使用的 Skill
 
 | Skill | 用途 |
